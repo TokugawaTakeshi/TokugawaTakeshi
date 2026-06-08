@@ -147,7 +147,7 @@ CEO of Yamato Daiwa, currently one-man startup.
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/TokugawaTakeshi/Yamato-Daiwa-Backend">Yamato Daiwa Express Extensions</a></h3>
+      <h3><a href="https://github.com/TokugawaTakeshi/Yamato-Daiwa-Express-Extensions">Yamato Daiwa Express Extensions</a></h3>
       <p>Additional functionality for Express.js and also <a href="https://github.com/typestack/routing-controllers">routing-controllers</a> aimed to reduce the routine code.</p>
     </td>
   </tr>
